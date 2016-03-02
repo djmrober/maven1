@@ -1,0 +1,5 @@
+core\main.class
+hu\sol\mik\hw\test\bean\HelloBean.class
+hu\sol\mik\hw\test\taglib\HelloTag.class
+core\HelloModel.class
+hu\sol\mik\hw\test\servlet\HelloServlet.class
